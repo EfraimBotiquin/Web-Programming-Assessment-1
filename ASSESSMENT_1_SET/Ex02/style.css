@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background: #cfcfcf;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 40px auto;
+    background: #f4f4f4;
+    padding: 40px 20px;
+    border-radius: 25px;
+}
+
+/* HEADINGS */
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 85px;
+    text-align: center;
+    color: #3f8f1e;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: #3f8f1e;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* PARAGRAPH */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #222;
+    margin-bottom: 22px;
+}
+
+/* GREEN BOX */
+.didyouknow {
+    background: #3f8f1e;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 25px;
+    margin: 10px 0;
+}
+
+.didyouknow h4 {
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    margin: 0 0 15px 0;
+}
+
+.didyouknow p {
+    color: white;
+    margin: 0;
+}

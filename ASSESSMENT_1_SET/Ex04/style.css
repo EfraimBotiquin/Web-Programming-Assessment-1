@@ -1,0 +1,80 @@
+body {
+    background: #e65c9c;
+    font-family: Arial;
+    margin: 0;
+}
+
+/* top design */
+header {
+    text-align: center;
+    position: relative;
+    margin-top: 20px;
+}
+
+.ornament {
+    width: 520px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 520px;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+}
+
+.cart {
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
+
+.cart img {
+    width: 50px;
+}
+
+/* photo section */
+.photo {
+    margin-bottom: 20px;
+}
+
+.photo img {
+    width: 520px;
+    display: block;
+}
+
+.caption {
+    background: #e6e1c6;
+    color: #52c6d3;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 24px;
+    margin: 0;
+}
+
+button {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+/* footer */
+footer {
+    width: 800px;
+    margin: auto;
+    margin-top: 0px;
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+footer ul {
+    padding-left: 40px;
+}
+
+footer a {
+    color: blue;
+    font-weight: bold;
+    font-size: 24px;
+}
